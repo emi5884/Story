@@ -157,17 +157,17 @@ class TopViewController: UIViewController {
                                  right: view.rightAnchor,
                                  paddingTop: 0)
         
-        view.addSubview(mypageButtonBaseView)
-        mypageButtonBaseView.anchor(bottom: view.safeAreaLayoutGuide.bottomAnchor,
-                                    right: view.rightAnchor,
-                                    paddingBottom: -110, paddingRight: -80)
-        mypageButtonBaseView.setDimensions(height: 200, width: 200)
+//        view.addSubview(mypageButtonBaseView)
+//        mypageButtonBaseView.anchor(bottom: view.safeAreaLayoutGuide.bottomAnchor,
+//                                    right: view.rightAnchor,
+//                                    paddingBottom: -110, paddingRight: -80)
+//        mypageButtonBaseView.setDimensions(height: 200, width: 200)
         
-        mypageButtonBaseView.addSubview(myPageButton)
-        myPageButton.anchor(bottom: view.safeAreaLayoutGuide.bottomAnchor,
-                            right: view.rightAnchor,
-                            paddingRight: 20)
-        myPageButton.setDimensions(height: 60, width: 60)
+//        mypageButtonBaseView.addSubview(myPageButton)
+//        myPageButton.anchor(bottom: view.safeAreaLayoutGuide.bottomAnchor,
+//                            right: view.rightAnchor,
+//                            paddingRight: 20)
+//        myPageButton.setDimensions(height: 60, width: 60)
     }
 }
 
