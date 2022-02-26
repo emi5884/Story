@@ -49,3 +49,10 @@
 ### ・カラー
 木の緑色、枝の茶色を基調色としました。<br><br>
 ![top-menu](https://user-images.githubusercontent.com/98724087/152006069-f10f1d8f-640f-4eec-888f-ef4b28bd264b.gif)
+
+<br>
+
+## ⭐️  特徴
+- no story board
+- MVVM
+
